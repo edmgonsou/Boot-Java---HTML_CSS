@@ -1,0 +1,9 @@
+1. Como podemos definir uma URL, dê um exemplo.
+Resp.: é um conjunto de elemetos que correspode ao endereço de dominio e as página que estão agregadas a esse dominio.
+exemplo https://www.massamadre.com.br/pizzqueijo
+
+2. O que é o HTTP?
+Resp.: é o protocolo de comunicação entre o navegador e o webserve
+
+3. O que são vendors em CSS?
+Resp.: são prefixo que os fabricantes de browser que ele dispoe no CSS para testar novas funcionalidade.

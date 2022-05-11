@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+div{
+    width: 100px;
+    height: 100px;
+    background-color: darkgoldenrod;
+    position: absolute;
+}
+div#topo{
+    top: 0;
+    left: 0;
+}
+div#esquerda{
+    top: 0;
+    right: 0;
+}
+div#abaixoEsquerda{
+    bottom: 0;
+    right: 0;
+}
+div#abaixoDireita{
+   bottom: 0;
+   left: 0;    
+}

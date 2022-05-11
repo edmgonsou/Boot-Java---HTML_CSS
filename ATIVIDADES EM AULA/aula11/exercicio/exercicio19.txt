@@ -1,0 +1,4 @@
+1. Qual é a tag semântica que servirá de contêiner para tags de parágrafo <p>?
+Resp.: e tag article <article>.
+2. Uma tag de parágrafo pode ser substituida por tag <div> principalmente para conter textos longos?
+Resp.: não, existe uma tag especifica para isso a tag p <p>, isso não produz uma codificação semântica

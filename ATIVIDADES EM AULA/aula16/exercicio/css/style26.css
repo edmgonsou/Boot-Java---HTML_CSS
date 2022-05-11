@@ -1,0 +1,32 @@
+.root{
+    --background-color: rgb(190, 167, 167);
+}
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    background-color: var(--background-color);
+}
+div#bola{
+    width: 150px;
+    height: 150px;
+    margin: 10px auto;
+    -webkit-booder-radius: 100%;
+    -moz-booder-radius: 100%;
+    -ms-booder-radius: 100%;
+    border-radius: 100px;
+    background-color: #000;
+}
+div#bola:hover{
+    width: 200px;
+    height: 200px;
+    margin: 10px auto;
+    -webkit-booder-radius: 100%;
+    -moz-booder-radius: 100%;
+    -ms-booder-radius: 100%;
+    border-radius: 100px;
+    background-color: red;
+    cursor: pointer;
+}

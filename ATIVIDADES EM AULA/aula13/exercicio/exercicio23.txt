@@ -1,0 +1,8 @@
+1. Dê uma definição para o elemento HTML <body>.
+Resp.: A tag body é o container do HTML que irá agregar o corpo da página que será renderizada.
+
+2. É correto dizer que por padrão todos os elementos HTML possuem um definição de margin e padding?
+Resp.: Nao, nem todos elementos iniciais do Html possuem magin e padding. 
+
+3. Uma tag <figure> pode conter várias tags <figurecaption>
+Resp.: Não. Para cada figure você poderá usar somente uma tag <figurecaption>

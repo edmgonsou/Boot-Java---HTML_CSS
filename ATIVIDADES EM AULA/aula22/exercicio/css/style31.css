@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    width: 50vw;
+    height: 40vw;
+    margin: 20px auto;
+    padding: 2px;
+    background-color: #607D8B;
+    
+}
+
+div#primeira{
+    height: 10%;
+    width: 100%;
+    background-color: #FFCA28;    
+}
+div#segunda{
+    height: 35%;
+    width: 100%;
+    background-color: #FFCA28;
+    margin-top: 5px;    
+}
+div#terceira{ 
+    width: 100%;   
+    height: 25%;
+    display: flex;
+    padding: 15px 0 15px 0;    
+}
+
+div#terceira section{
+    width: 50%;
+    height: 100%;
+    background-color: #FFCA28;
+}
+.borda{
+    border-right: 2px solid rgba(43, 36, 36, 0.5);
+}
+div#quarta{
+    width: 100%;
+    height: 29%;
+    display: flex; 
+    background-color: #FFCA28;
+    justify-content: space-around;
+    align-items: center;
+}
+div#quarta section{
+    width: 49%;
+    height: 60%;
+    background-color: #64DD17;
+    border: 2px solid rgba(43, 36, 36, 0.2);    
+}

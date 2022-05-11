@@ -1,0 +1,7 @@
+1.É verdade que todo arquivo CSS precisa estar dentro de outra pasta para que o navegador possa renderiza os estilos das propriedades CSS?
+Resp.: Não necessáriamente. È semânticamente correto que o arquivo CSS esteja em outra pasta, mas o navegador irá renderiza mesmo se ele estiver no corpo do arquivo HTML e ou inline ou seja junto com o elemento.
+
+2. É verdade que todo elemento HTML possui por padrão elementos filhos?
+Resp.: Não é verdade, nem todos elementos HTML teram elementos filhos, alguns elementos HTML possa ter um ou outro elementos filhos
+3. O que é viewport?
+É o dispositivo de saida em que o navegador irá renderizar a página, ou seja é tela do seu dispositivo em que você visualiza a página HTML.

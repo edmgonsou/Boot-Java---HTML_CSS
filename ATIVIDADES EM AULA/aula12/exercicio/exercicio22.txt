@@ -1,0 +1,7 @@
+1. No CSS um elemento filho pode ser referênciado por uma separação de espaço.
+Resp.: Sim, pode ser como espaço ou com o sinal de maior que ">".
+
+2. A propriedade CSS background-size permitirá renderizar uma tamanho, além de alterar o tamanho do arquivo.
+Resp.: Essa propriedade não altera o tamanha do arquivo, ela somente renderiza aquele tamanho, ou seja o tamanho é somente para visualização.
+3. A tag responsável por criar títulos em até 6 níveis é a HEADER.
+Resp.: não, a tag responsável é a tag H1...H6

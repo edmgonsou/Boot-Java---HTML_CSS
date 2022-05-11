@@ -1,0 +1,12 @@
+1. Qual a propriedade CSS que permite aplicar um "degradê" em um elemento HTML?
+De um exemplo.
+Resp.: é a propriedade background.
+Exemplo:  background: radial-gradient(circle, #F5F5F5, #212121, #F5F5F5);
+
+2. Por padrão, é recomendado que a aplicação do CSS seja na forma inline ou mesmo no próprio corpo do código HTML.
+Resp.: não, é recomendado que o código CSS seja em arquivo separado e de preferencia em uma pasta especifica.
+
+3. Qual a diferença básica entre a unidade de medida pixel(px) e a unidade em percentual (%)?
+Resp.: A unidade de medida pixel(px) é uma unidade fixa ela não ajusta conforme o tamanho do elemento pai, ou seja
+essa unidade não ajusta ou não é responsiva, já unidade de medida percentual (%) ela é uma porcentagem do elemento pai
+o tamanho dela é conforme o tamanho do elemento pai e se ajusta a qualquer tamanho de viewport.

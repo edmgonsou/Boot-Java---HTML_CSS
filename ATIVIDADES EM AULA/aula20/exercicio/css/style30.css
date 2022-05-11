@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+form {
+    width: 100%;
+    height: auto;
+    padding: 2px;
+
+}
+
+fieldset {
+    width: 20%;
+    height: auto;
+    background-color: antiquewhite;
+    margin: 200px auto;
+}
+legend{
+    margin: 0 auto;
+}
+
+input {
+    width: 80%;
+    display: block;
+    margin: 10px auto;
+}
+
+.botao {
+    width: 40%;
+    border-radius: 10px;
+    background-color: #000;
+    color: #fff;
+}

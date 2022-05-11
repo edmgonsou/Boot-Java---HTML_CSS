@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+div#pai{
+    width: 100px;
+    height: auto;
+    background-color: cornsilk;
+}
+div.filhas{
+    width: 80px;
+    height: 80px;
+    background-color: darkmagenta;
+    margin: 5px;
+}
+#corUnica{
+    background-color: darkred;
+    position: sticky;
+    top: 30px;
+}
+/* div#filha{
+    width: 100px;
+    height: 100px;
+    background-color: darkgray;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+} */

@@ -25,10 +25,10 @@ fieldset#forma {
     width: 20%;
     height: auto;
     padding: 6px;
+    font-size: clamp(0.6rem, 1.3vw, 2rem);
     border: 2px solid var(--border-color-padrao);
     border-radius: 3px;
     flex-wrap: wrap;
-    gap: 20px;
     justify-content: center;
 }
 
@@ -41,6 +41,7 @@ label {
 }
 
 fieldset#forma input.ajust {
+    font-size: clamp(0.4rem, 1vw, 2rem);
     border: 2px solid var(--border-color-padrao);
     border-radius: 3px;
 }
@@ -54,9 +55,11 @@ fieldset#forma input.ajust:focus {
 fieldset#forma input.btn {
     height: 50px;
     margin-top: 4px;
+    padding: 2px;
     background-color: #64B5F6;
     border: none;
     color: #fff;
     cursor: pointer;
+    font-size: clamp(0.6rem, 1.3vw, 2rem);
     font-weight: bolder;
 }

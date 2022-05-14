@@ -25,7 +25,7 @@ fieldset#forma {
     width: 20%;
     height: auto;
     padding: 6px;
-    font-size: clamp(0.6rem, 1.3vw, 2rem);
+    font-size: clamp(0.6rem, 1.1vw, 1.6rem);
     border: 2px solid var(--border-color-padrao);
     border-radius: 3px;
     flex-wrap: wrap;
@@ -40,8 +40,9 @@ label {
     flex-grow: 1;
 }
 
+
 fieldset#forma input.ajust {
-    font-size: clamp(0.4rem, 1vw, 2rem);
+    font-size: clamp(0.4rem, 1vw, 1.1rem);
     border: 2px solid var(--border-color-padrao);
     border-radius: 3px;
 }
